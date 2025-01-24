@@ -7,3 +7,4 @@ Create a user-friendly manual for beginners or enthusiasts to learn computer vis
 2. [The Simpsons Characters Data](https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset)
 3. [Resources](https://drive.google.com/drive/folders/1YKB4oNCyN58fpNEBgcZLWGAyWG85K3Mu?usp=drive_link)
 4. [detectron2](https://github.com/facebookresearch/detectron2)
+5. [videos](https://drive.google.com/drive/folders/1d0upByIkCbsGtPC3ygOffTJ6C8VV9hTP?usp=drive_link)
